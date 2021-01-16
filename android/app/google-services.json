@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138238497247",
+    "project_id": "courses-4bf60",
+    "storage_bucket": "courses-4bf60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138238497247:android:414cf6c4b82b190da9b46a",
+        "android_client_info": {
+          "package_name": "com.example.softagirevisiontask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138238497247-6eirkmr422dt9g2jlqqddrd0d3sql7rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxk4NDeYZPwBroZ5vl1z8TDfSapy3Dz0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138238497247-6eirkmr422dt9g2jlqqddrd0d3sql7rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
